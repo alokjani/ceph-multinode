@@ -1,0 +1,6 @@
+ceph-multinode
+==============
+
+Ceph sandbox for 3 nodes x 2 OSDs each using Vagrant.
+
+Uses Puppet for configuration management and Shell for orchestration.
